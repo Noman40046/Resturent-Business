@@ -1,0 +1,574 @@
+body
+{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+}
+/* link section start here--------------------- */
+.link-section
+{
+    
+    background: linear-gradient(rgba(7, 7, 7,1),rgb(30, 30, 30));
+    padding: 3px 200px 3px 200px;
+}
+
+.number,.your-mail,.opn-cls
+{
+    text-decoration: none;
+    color: rgb(122, 122, 122);
+    font-size: 14px;
+}
+.opn-cls:hover
+{
+   
+    color: rgb(122, 122, 122);
+    
+}
+.your-mail:hover
+{
+   
+    color: rgb(122, 122, 122);
+    
+}
+.number:hover
+{
+   
+    color: rgb(122, 122, 122);
+    
+}
+.link-clr
+{
+    color: rgb(122, 122, 122);
+    font-size: 13px;
+}
+/* link section end here--------------------- */
+
+/* slider start here---------------------------- */
+.feliciano
+{
+    color: #e5c18a;
+    text-shadow: 4px 4px 2px #000000;
+    font-size: 50px;
+    font-weight: 700;
+}
+.item1
+{
+    background: linear-gradient(rgba(7, 7, 7, 0.5),rgba(0, 0, 0,1)),url('../img/slider-img/img-1.webp');
+    background-size: cover; 
+    height: 620px;
+    background-size: cover;
+    position: relative;
+}
+.item2
+{
+    background: linear-gradient(rgba(7, 7, 7, 0.5),rgba(0, 0, 0,1)),url('../img/slider-img/img-2.webp');
+    background-size: cover; 
+    height: 620px;
+    background-size: cover;
+    position: relative;
+}
+.item3
+{
+    background: linear-gradient(rgba(7, 7, 7, 0.5),rgba(0, 0, 0,1)),url('../img/slider-img/img-3.webp');
+    background-size: cover; 
+    height: 620px;
+    background-size: cover;
+    position: relative;
+}
+.slider1-text
+{
+    margin-bottom: 120px;
+    font-size: 70px;
+}
+
+.food-img1
+{
+    height: 100px;
+    width: 100px;
+    border-radius: 100%;
+}
+/* slider end here---------------------------- */
+
+
+/* navbar start here------------------ */
+
+.navigation-bar
+{
+    padding: 3px 170px 3px 170px;
+    background: linear-gradient(rgb(35, 35, 35),rgba(0, 0, 0,0.4));
+   
+}
+.navbar-brand
+{
+    color: white;
+    text-shadow: 4px 4px 2px #000000;
+    font-size: 25px;
+    font-weight: 900;
+    
+}
+.navbar-brand:hover
+{
+    color: white;
+ 
+    
+}
+.nav-link
+{
+    
+    font-size: 13px;
+    margin-left: 40px;
+    color: white;
+    text-shadow: 2px 2px 2px #000000;
+    
+}
+.nav-link:hover
+{
+    color: white;
+}
+/* navbar end here------------------ */
+
+/* resturent start here------------------------- */
+.resturent-img
+{
+    max-width: 100%;
+    height: auto;
+}
+.resturent-name
+{
+    font-size: 50px;
+    font-weight: 900;
+    color: #000000;
+    text-shadow: 4px 4px 2px #696969;
+}
+.resturent-dtail
+{
+    font-size: 15px;
+    color: rgb(131, 131, 131);
+}
+.time
+{
+    font-size: 20px;
+    color: rgb(83, 83, 83);
+    font-weight: 700;
+}
+.contact
+{
+    font-size: 30px;
+    color: rgb(83, 83, 83);
+    font-weight: 700;
+}
+.number2
+{
+    text-decoration: none;
+    font-size: 50px;
+    color: #bda47f;
+    font-weight: 700;
+}
+.amount
+{
+    font-size: 50px;
+    color: #bda47f;
+    font-weight: 700;
+}
+.about
+{
+    font-size: 15px;
+    color: rgb(83, 83, 83);
+    margin-top: -15px;
+}
+/* resturent end here------------------------- */
+
+/* service start here------------------------ */
+
+.service
+{
+    background-color: rgb(245, 245, 245);
+    
+}
+.creating-service
+{
+    text-align: center;
+    font-weight: 900;
+    font-size: 50px;
+    margin-bottom: 60px;
+    color: #000000;
+    text-shadow: 4px 4px 2px #696969;
+}
+.service-name
+{
+    text-align: center;
+    font-weight: 600;
+    font-size: 30px;
+}
+.service-dtail
+{
+    text-align: center;
+    font-size: 15px;
+    color: rgb(83, 83, 83);
+    font-size: 17px;
+}
+.service-icon
+{
+    font-size: 60px;
+    color: #bda47f;
+    margin-bottom: 20px;
+}
+/* service end here------------------------ */
+
+/* menu start here------------- */
+.our-menu
+{
+    text-align: center;
+    font-weight: 900;
+    font-size: 50px;
+    margin-bottom: 60px;
+    color: #000000;
+    text-shadow: 4px 4px 2px #696969;
+}
+.menu-img
+{
+    max-width: 80%;
+    height: auto;
+    border-radius: 50%;
+    transition: 1s;
+}
+.menu-img:hover
+{
+    transform: rotate(360deg);
+}
+.full-name
+{
+    font-size: 20px;
+    font-weight: 700;
+}
+.full-price
+{
+    font-size: 25px;
+    font-weight: 700;
+    color: #bda47f;
+}
+.properties
+{
+    color: rgb(83, 83, 83);
+}
+.order-now
+{
+    
+    padding: 5px 15px 5px 15px;
+    text-decoration: none;
+    color: white;
+    background-color: #bda47f;
+}
+.order-now:hover
+{
+    color: white;  
+}
+/* menu end here------------- */
+
+/* master chef start here------------------ */
+.master-chef
+{
+    background-color: rgb(245, 245, 245);
+}
+.our-chef
+{
+    text-align: center;
+    font-weight: 900;
+    font-size: 50px;
+    margin-bottom: 60px; 
+    color: #000000;
+    text-shadow: 4px 4px 2px #696969;
+}
+.chef-1
+{
+    max-width: 100%;
+    height: auto;
+    
+}
+.name
+{
+    font-size: 23px;
+    font-weight: 700;
+}
+.post
+{
+    color:rgb(83, 83, 83); 
+}
+.contact-for
+{
+    background-color: rgb(238, 238, 238);
+    padding: 5px;
+}
+.contact-icon
+{
+    color: #bda47f;
+    padding-right: 10px;
+    transition: 1s;
+    padding: 5px  10px  5px  10px;
+    border-radius: 100%;
+    background-color: rgb(241, 241, 241);
+    font-size: 20px;
+}
+
+.contact-icon:hover
+{
+    transform: rotate(-720deg);
+}
+/* master chef end here------------------ */
+
+/* reservation start here------------------- */
+.reservation
+{
+    background-image: url(../img/reservation/resrve.webp);
+    max-width: 100%;
+    height: auto;
+   
+}
+
+
+
+.reserve
+{
+    background-color: white;
+    padding: 30px;
+    border-top-right-radius: 200px;
+border-bottom-left-radius: 200px;
+   
+ 
+}
+.make-reserve
+{
+    text-align: center;
+    font-size: 50px;
+    font-weight: 900;
+    color: #000000;
+    text-shadow: 4px 4px 2px #696969;
+}
+.all-input
+{
+    padding: 10px;
+    border-radius: 5px;
+    border: 2px solid black;
+}
+
+ .label-all
+ {
+font-weight: 700;
+font-size: 20px;
+ }
+
+
+.make-reservation {
+  appearance: none;
+  background-color: #FFFFFF;
+  border-radius: 40em;
+  border-style: none;
+  box-shadow: #e5c18a 0 -12px 6px inset;
+  box-sizing: border-box;
+  color: #000000;
+  cursor: pointer;
+  display: inline-block;
+  font-family: -apple-system,sans-serif;
+  font-size: 1.2rem;
+  font-weight: 700;
+  letter-spacing: -.24px;
+  margin: 0;
+  outline: none;
+  padding: 1rem 1.3rem;
+  quotes: auto;
+  text-align: center;
+  text-decoration: none;
+  transition: all .15s;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+}
+
+.make-reservation:hover {
+  background-color: #FFC229;
+  box-shadow: #FF6314 0 -6px 8px inset;
+  transform: scale(1.125);
+}
+
+.make-reservation:active {
+  transform: scale(1.025);
+}
+
+@media (min-width: 768px) {
+  .make-reservation {
+    font-size: 1.5rem;
+    padding: .75rem 2rem;
+  }
+}
+
+/* reservation end here------------------- */
+
+/* happy customer start here-------------- */
+.h-customer
+{
+    text-align: center;
+    font-size: 50px;
+    font-weight: 900;
+    color: #000000;
+    text-shadow: 4px 4px 2px #696969;
+}
+.customer-1
+{
+    width: 50%;
+    height: auto;
+    border-radius: 100%;
+    
+}
+.cus-detail
+{
+    color: #696969;
+}
+.cus-name
+{
+    color: #bda47f;
+    font-weight: 700;
+}
+.all-happy-customers
+{
+    padding-top: 50px;
+    padding-bottom: 100px;
+}
+
+/* happy customer end here-------------- */
+
+/* recent post start here-------------------------- */
+.recent-post
+{
+    background-color: rgb(245, 245, 245);
+}
+.r-post
+{
+    text-align: center;
+    font-size: 50px;
+    font-weight: 900;
+    color: #000000;
+    text-shadow: 4px 4px 2px #696969;
+}
+.first-post-img
+{
+    width: 100%;
+    height: auto;
+}
+.read
+{
+    text-decoration: none;
+    color: #0e0e0e;
+    font-size: 13px;
+}
+.read:hover
+{
+    
+    color: #0e0e0e;
+    
+}
+.time-date
+{
+    color: #a2a2a2;
+}
+.taste
+{
+    font-size: 20px;
+    font-weight: 700;
+}
+.messege
+{
+    color: #696969;
+    font-size: 13px;
+}
+
+
+/* recent post end here-------------------------- */
+
+/* footer start here--------------------- */
+.footer
+{
+    background-color: #141313;
+}
+
+.footer-topic
+{
+    color: rgb(255, 255, 255);
+   padding-bottom: 25px;
+
+}
+.footer-discription
+{
+    font-size: 13px;
+    color: rgb(213, 213, 213);
+  
+}
+.footer-icon
+{
+    padding: 10px;
+    background-color: #3d3d3d;
+    border-radius: 100%;
+    color: white;
+    margin-right: 10px;
+    transition: 1s
+}
+
+.footer-icon:hover
+{
+    transform: rotate(720deg);
+}
+.day
+{
+    list-style-type: none;
+    font-size: 13px;
+    color: rgb(213, 213, 213);
+    line-height: 25px;
+    word-spacing: 2px;
+}
+.open-close
+{
+    margin-left: -30px;
+}
+
+.instagram
+{
+    width: 100%;
+    height: auto;
+}
+.Newsletter-dtail
+{
+    font-size: 13px;
+    color: rgb(213, 213, 213);
+  
+}
+.enter-email
+{
+    padding: 10px;
+    background-color: #343434;
+    
+}
+.subscribe
+{
+    text-decoration: none;
+    padding: 10px 72px 10px 72px;
+    background-color: #bda47f;
+    color: white;
+}
+.subscribe:hover
+{
+  
+    color: white;
+}
+.hr
+{
+    font-size: 5px;
+    background-color: rgb(230, 3, 3);
+}
+.last-text
+{
+    font-size: 13px;
+    color: white;
+}
+/* footer end here--------------------- */
+
+
+

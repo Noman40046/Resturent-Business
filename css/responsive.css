@@ -1,0 +1,21 @@
+@media(max-width:576px)
+{
+    .link-section
+{
+    
+    padding: 2px 2px 2px 2px;
+}
+.number,.your-mail,.opn-cls
+{
+    
+    font-size: 8px;
+}
+
+.navbar-brand
+{   
+    font-size: 25px;     
+}
+
+
+
+}
